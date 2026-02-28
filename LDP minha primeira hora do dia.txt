@@ -1,0 +1,116 @@
+1 INICIO
+
+1. Acordar ao ouvir o despertador tocar
+2. Estender o braço até o celular
+3. Desligar o despertador
+4. Sentar na cama
+5. Colocar os pés no chão
+6. Levantar do corpo da cama
+7. Caminhar até a porta do quarto
+8. Ir até a sala
+
+9. Pegar a chaleira elétrica
+10. Abrir a tampa da chaleira
+11. Levar até a torneira
+12. Encher com água até a marca indicada
+13. Fechar a tampa
+14. Colocar a chaleira na base
+15. Ligar a chaleira elétrica
+
+16. Ir até o banheiro
+17. Abrir a torneira
+18. Molhar as mãos
+19. Jogar água no rosto
+20. Secar o rosto com toalha
+
+// Verificar estado da filha
+21. Ir até o quarto da filha
+22. Verificar se ela está acordada (olhos abertos / sentada / em pé)
+
+SE filha_estiver_acordada = VERDADEIRO ENTÃO
+    23. Dar bom dia
+    24. Abrir as cortinas do quarto
+    25. Pedir para ela ir ao banheiro lavar o rosto
+SENÃO
+    23. Abrir as cortinas do quarto
+    24. Chamar pelo nome em tom moderado
+    25. Aguardar reação
+    26. Pedir para ela ir ao banheiro lavar o rosto
+FIMSE
+
+27. Retornar para a sala
+
+28. Pegar o suporte do filtro
+29. Colocar sobre a chaleira normal
+30. Abrir o filtro de papel
+31. Posicionar o filtro dentro do suporte
+32. Pegar o pó de café
+33. Colocar quantidade adequada no filtro
+
+34. Verificar se a água já está fervida
+35. Desligar a chaleira elétrica
+36. Despejar água quente lentamente sobre o pó (movimento circular)
+37. Aguardar a filtragem completa
+
+38. Pegar a garrafa térmica
+39. Colocar um pouco de água quente dentro dela
+40. Fechar e agitar para escaldar
+41. Descartar a água da escaldagem
+42. Transferir o café filtrado para a térmica
+43. Fechar a térmica
+44. Pegar uma fruta
+45. Lavar a fruta em água corrente
+46. Cortar em pedaços adequados
+47. Colocar em prato para filha
+
+// Preparar pães e acompanhamentos
+48. Pegar pães
+49. Colocar quantidade adequada na mesa
+50. Pegar requeijão
+51. Verificar validade
+52. Abrir embalagem
+53. Colocar na mesa
+54. Pegar outros recheios (ex: manteiga, queijo, presunto)
+55. Organizar todos na mesa
+
+// Preparar leite
+56. Pegar leite
+57. Verificar validade
+58. SE desejar quente ENTÃO
+       58.1 Colocar leite em recipiente
+       58.2 Aquecer
+       58.3 Despejar em copo
+   SENÃO
+       58.4 Servir leite frio no copo
+   FIMSE
+
+// Organização final
+59. Conferir se todos os itens estão na mesa:
+    - Café
+    - Fruta
+    - Pães
+    - Recheios
+    - Leite
+    - Talheres
+    - Copos
+
+60. Chamar todos para a mesa
+61. Aguardar todos sentarem
+
+// Momento espiritual
+62. Convidar todos para orar
+63. Fazer oração de agradecimento
+64. Encerrar oração
+
+// Café da manhã
+65. Servir-se
+66. Comer
+67. Dialogar com esposa e filha
+68. Ouvir ativamente
+69. Finalizar refeição
+
+70. Recolher utensílios 
+71. Iniciar rotina matinal
+
+FIM
+FIM
